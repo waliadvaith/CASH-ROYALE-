@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76f51d64510dafa4a81a8540754ac59e, type: 3}
+  m_Name: SwordsmanData
+  m_EditorClassIdentifier: Assembly-CSharp::TroopData
+  troopName: Swordsman
+  goldCost: 100
+  troopIcon: {fileID: 8564189133566859293, guid: 456f171fa53217d448353894e2868122, type: 3}
+  troopPrefab: {fileID: 4323064958446782707, guid: ae8b9bde7b134e64aadb79d566f15a08, type: 3}

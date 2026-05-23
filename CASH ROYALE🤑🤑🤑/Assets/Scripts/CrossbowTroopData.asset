@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76f51d64510dafa4a81a8540754ac59e, type: 3}
+  m_Name: CrossbowTroopData
+  m_EditorClassIdentifier: Assembly-CSharp::TroopData
+  troopName: Crossbow troop
+  goldCost: 125
+  troopIcon: {fileID: 3573036208370857778, guid: cc37d7e5042cb644ebc4a1799e399d90, type: 3}
+  troopPrefab: {fileID: 2891292965173904816, guid: bfafbeac5dc5c1f4f95125bdb42cbab9, type: 3}
